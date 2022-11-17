@@ -35,7 +35,7 @@ This project shows how to integrate LibOpenCM3 with CMake.
         }
     }
     ```
-4. add `cmake/gcc-arm-none-eabi.cmake`
+4. Add `cmake/gcc-arm-none-eabi.cmake`
     ```cmake
     set(CMAKE_SYSTEM_NAME Generic)
     set(CMAKE_TRY_COMPILE_TARGET_TYPE STATIC_LIBRARY)
@@ -121,4 +121,8 @@ This project shows how to integrate LibOpenCM3 with CMake.
 7. Build
     ```bash
     cmake --build build
-    ```
+     ```
+
+### Example
+
+See [libopencm3_app](https://github.com/mikisama/libopencm3_app)
