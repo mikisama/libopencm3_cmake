@@ -21,7 +21,8 @@ including ST STM32, Ti Tiva and Stellaris, NXP LPC 11xx, 13xx, 15xx,
 http://www.libopencm3.org
 """
 
-# The original file is here https://github.com/platformio/builder-framework-libopencm3
+# source: adapted from
+# https://github.com/platformio/builder-framework-libopencm3
 
 import argparse
 import re

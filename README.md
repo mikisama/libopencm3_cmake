@@ -11,7 +11,7 @@ This project shows how to integrate LibOpenCM3 with CMake.
 
 ### Quick Start
 
-1. Create a app projetc
+1. Create an app projetc
     ```bash
     git init libopencm3_app
     cd libopencm3_app
